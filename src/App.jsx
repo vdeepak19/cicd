@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Welcome to CICD Class S227</h1>
+      <h1>Welcome to CICD Class S227 21.07.25</h1>
     </>
   )
 }
